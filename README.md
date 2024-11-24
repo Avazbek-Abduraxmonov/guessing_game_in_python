@@ -1,2 +1,3 @@
-# guessing_game_in_python
-Pythonda yangi guessing o'yini qildik 
+# Guessing Game
+
+Guessing Game in Python Language
